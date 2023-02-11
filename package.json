@@ -19,5 +19,8 @@
   "homepage": "https://github.com/mmkiir/3d-chess#readme",
   "workspaces": [
     "packages/*"
-  ]
+  ],
+  "devDependencies": {
+    "prettier": "2.8.4"
+  }
 }
